@@ -10,3 +10,4 @@ A Bookstore GUI application which replicates an online user-admin bookstore. Thi
 ### Bookstore Index
 ![image](https://user-images.githubusercontent.com/96170222/229961801-8500f57e-e8d2-4974-b6a3-e3ba9144f70c.png)
 ### Customer List
+![image](https://user-images.githubusercontent.com/96170222/229962186-d9a844e0-4e5d-43a1-a1c2-77a799616b4f.png)
